@@ -17,5 +17,8 @@ created a directory named "name-directory" in the current directory
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-
+## Step 3: making a Task List
+- [ ] learn the markdown language
+- [ ] use markdown to format a text
+- [ ] create a documentation with markdown
 
